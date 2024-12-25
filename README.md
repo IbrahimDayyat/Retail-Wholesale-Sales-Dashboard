@@ -29,3 +29,6 @@ This project demonstrates a complete data analytics workflow, including data pre
 ## How to Use:
 - Open `Analysis.xlsx` to view pivot table analysis.
 - Navigate to the "Dashboard" sheets for insights.
+
+## Author:
+Ibrahim dayyat
